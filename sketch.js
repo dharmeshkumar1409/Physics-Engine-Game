@@ -47,7 +47,7 @@ function setup() {
 }
 
 function draw() {
-    if (bg1){}
+    if (bg1)
         background(bg1);
     Engine.update(engine);
     //strokeWeight(4);
